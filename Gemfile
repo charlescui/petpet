@@ -49,11 +49,11 @@ end
 # 搜索引擎采用
 # thinking-sphinx + coreseek + mmseg
 # http://www.coreseek.cn/
-gem 'thinking-sphinx',
-  :git     => 'git://github.com/freelancing-god/thinking-sphinx.git',
-  :branch  => 'rails3'
-gem 'ts-datetime-delta', '1.0.2',
-  :require => 'thinking_sphinx/deltas/datetime_delta'
+#gem 'thinking-sphinx',
+#  :git     => 'git://github.com/freelancing-god/thinking-sphinx.git',
+#  :branch  => 'rails3'
+#gem 'ts-datetime-delta', '1.0.2',
+#  :require => 'thinking_sphinx/deltas/datetime_delta'
 # 数据模型删除插件
 gem 'paranoia'
 #gem "omniauth",
